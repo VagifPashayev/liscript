@@ -1,0 +1,8 @@
+apps/
+build/
+dist/
+*.exe
+*.spec
+__pycache__/
+*.pyc
+adb/
