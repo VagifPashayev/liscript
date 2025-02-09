@@ -8,41 +8,7 @@ The tool auto-detects the monitor type (pre-facelift rear / pre-facelift dual / 
 
 ## Interface
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│               Lixiang Script By Vagif                       │
-│       Current monitor: Restyling — Main + Passenger + Rear  │
-│                   [ Refresh Monitor ]                       │
-├────────────────────────┬────────────────────────────────────┤
-│  Select device:        │  [ Install Store             ]     │
-│  ┌──────────────────┐  │  [ Install Buttons           ]     │
-│  │ emulator-5554  ▼ │  │  [ Install HUD               ]     │
-│  └──────────────────┘  │  [ Install Standard Package  ]     │
-│                        │                                    │
-│  Select users:         │  [ Disable QR ] [ Start Box715 ]   │
-│  ☑ Main (0)            │  [ Set Timezone to Baku      ]     │
-│  ☑ Passenger (21473)   │                                    │
-│  ☑ Rear (6174)         │  [ Launcher FIX ] [ Patch 7.0 ]   │
-│                        │                                    │
-│  Select app:           │                                    │
-│  ┌──────────────────┐  │                                    │
-│  │  YouTube_AnyApp▼ │  │                                    │
-│  └──────────────────┘  │                                    │
-│                        │                                    │
-│  ☐ Grant install perms │                                    │
-│  ☐ Grant system perms  │                                    │
-│  ☐ Grant overlay perms │                                    │
-│  ☐ Doze whitelist      │                                    │
-│                        │                                    │
-│       [ Install ]      │                                    │
-├────────────────────────┴────────────────────────────────────┤
-│ LOG                                                         │
-│ ✅ ADB found: Android Debug Bridge version 1.0.41           │
-│ ✅ LiAppStore installed successfully for selected users      │
-│ ✅ REQUEST_INSTALL_PACKAGES granted for LiAppStore to user 0 │
-│ ...                                                         │
-└─────────────────────────────────────────────────────────────┘
-```
+![APK Installer UI](screenshot.png)
 
 ---
 
